@@ -1,0 +1,9 @@
+The standard fram config library.
+
+provides the --config argument and auto parses the file_name passed at the
+command line.
+
+To access the values use the standard configparser methods.
+
+https://docs.python.org/2/library/configparser.html
+
